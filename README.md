@@ -1,5 +1,4 @@
-# PowerBi-Project
-"Census of India 2011"
+# PowerBi-Report:"Census of India 2011"
 
 Interactive dynamic Report on "Census of India 2011" with KPIs (Key Performance Indicators) as Population distribution, Geographical Region, 
 Literacy(With Male and Female segregation), Sex Ratio, ST Population, Status of Households Deprived, Religion/Caste Distribution, etc. with State and District 
